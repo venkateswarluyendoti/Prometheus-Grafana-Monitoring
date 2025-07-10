@@ -84,6 +84,8 @@ scrape_configs:
 8. Optional Alerts:
 
 - Use Grafana Alerting > Contact Points
+
+
   To Stop:
   --------
 docker-compose down
