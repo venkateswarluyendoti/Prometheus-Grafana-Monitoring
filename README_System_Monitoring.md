@@ -155,7 +155,7 @@ docker-compose down
 
 **Yendoti Venkateswarlu**  
 MCA Graduate | DevOps Trainee  
-GitHub: [venkateswarluyendoti](https://github.com/venky2350)
+GitHub: [venkateswarluyendoti](https://github.com/venkateswarluyendoti)
 
 ---
 
